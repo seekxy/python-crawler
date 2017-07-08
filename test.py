@@ -1,1 +1,1 @@
-print ('index1');
+print ('index');
