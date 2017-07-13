@@ -35,7 +35,7 @@ if __name__ =='__main__':
     )
     cursor = conn.cursor()
     qiushi = QiuShi()
-    for i in range(2):
+    for i in range(35):
         qiushi.query(i)
 
     cursor.close()
